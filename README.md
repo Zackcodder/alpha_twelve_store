@@ -47,7 +47,7 @@ lib/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/alpha_twelve_store.git
+[git clone https://github.com/Zackcodder/alpha_twelve_store.git]
 cd alpha_twelve_store
 flutter pub get
 flutter run
