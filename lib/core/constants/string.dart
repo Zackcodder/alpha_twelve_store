@@ -1,0 +1,25 @@
+const ksIphone16 = 'Apple iPhone 16 128GB|Teal';
+const ksM4MacBookAir13 = 'M4 MacBook Air 13" 256GB|Sky blue';
+const ksGooglePixal9A128 = 'Google Pixal 9A 128GB|Iris';
+const ksAppleAirpod4 = 'Apple Airpods 4 Active Noise Cancellation';
+const ksProductDesc =
+    "This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers. There will be no visible cosmetic imperfections when held at an arm’s length. There will be no visible cosmetic imperfections when held at an arm’s length. This product will have a battery which exceeds 80% capacity relative to new. Accessories will not be original, but will be compatible and fully functional. Product may come in generic Box. This product is eligible for a replacement or refund within 90 days of receipt if you are not satisfied.";
+const ksSearch = "Search...";
+const ksDeliveryAddress = 'DELIVERY ADDRESS';
+const ksAddress = 'Umuezike Road, Oyo State';
+const ksTech = 'Technology';
+const ksSmartPhonesandCo = "Smartphones, Laptops & \nAssecories";
+const ksHome = "Home";
+const ksCart = "Cart";
+const ksFavourite = "Favourite";
+const ksProfile = "Profile";
+const ksYourCart = "Your Cart";
+const ksGoback = "Go Back";
+const ksOrderInfo = "Order Info";
+const ksSubtotal = 'Subtotal';
+const ksShopping = 'Shipping';
+const ksTotal = 'Total';
+const ksCheckOut = "Checkout";
+const ksAddToCart = "Add to cart";
+const ksAddedToCart = "added to cart";
+const ksAppName = 'Alpha Twelve Store';
